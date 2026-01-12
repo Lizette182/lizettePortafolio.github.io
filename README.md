@@ -7,7 +7,7 @@ Soy una entusiasta del aprendizaje continuo especialmente en el ámbito del aná
 ## DASHBOARDS 
 <img width="702" height="471" alt="Captura de pantalla 2026-01-12 171940" src="https://github.com/user-attachments/assets/62f772d1-d7a3-4e08-8516-9b8a356d27c0" />
 
-## PORYECTO SPRINT 6
+## PORYECTO PYTHON TIENDA DE VIDEOJUEGOS
 
 La idea u objetivo de la realización de este proyecto consistía en aplicar todo lo aprendido en los anteriores sprints correspondiente a procesamiento, análisis exploratorio y estadístico de datos y técnicas de visualización con las diferentes librerías de Python.
 
