@@ -19,7 +19,7 @@ El proyecto brindaba datos de las ventas y calificaciones de los videojuegos ven
 
 ## PROYECTO APLICACIÓN WEB CON RENDER Y STREAMLIT DE PYTHON 👩🏻‍💻
 
-Para más información sobre la realización de este proyecto por favor dirigirse al archivo README.md de la carpeta de este proyecto. En resúmen, la idea era lanzar una interface web de una visualización realizada en python con la librería Streamlit y lanzarla en una plataforma web.
+Para más información sobre la realización de este proyecto por favor dirigirse al archivo README.md de la carpeta de este proyecto: proyecto_sprint7. En resúmen, la idea era lanzar una interface web de una visualización realizada en python con la librería Streamlit y lanzarla en una plataforma web.
 
 ## CONTACTO 👩🏻
 
