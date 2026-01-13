@@ -1,4 +1,4 @@
-# proyecto_sprint7
+# PORYECTO APLICACIÓN WEB CON RENDER
 
 🚗 Exploración de Dataset de Vehículos con Streamlit y Render
 📘 Descripción del Proyecto
@@ -38,5 +38,6 @@ README.md → este archivo con la descripción del proyecto.
 test_notebook.ipynb → notebook de prueba para generar las gráficas.
 
 🚀 Despliegue en Render
+
 
 La aplicación fue desplegada en Render, configurando los archivos necesarios (requirements.txt y app.py) para su ejecución automática en la web.
